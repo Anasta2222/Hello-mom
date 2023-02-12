@@ -1,0 +1,23 @@
+h1{
+    font-size: 30px;
+    color:  blue;
+    background: rgb(163, 226, 244)
+}
+
+p{
+    font-size: 25px;
+    color: rgb(47, 0, 255);
+}
+
+button{
+    background-color: rgb(49, 168, 232);
+    color: aliceblue;
+}
+
+body{
+    background-color: rgb(163, 226, 244);
+}
+
+.output {
+    color: rgb(219, 35, 35);
+}
